@@ -577,7 +577,11 @@
   {
     "poslanec": "Mgr. Libor Hoppe",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6693",
-    "asistenti": []
+    "asistenti": [
+      "Barbora Jägrová",
+      "Eliška Grodová",
+      "Monika Švaříčková"
+    ]
   },
   {
     "poslanec": "PhDr. Ing. Mgr. Jan Hrnčíř, MBA, LL.M.",
@@ -615,7 +619,6 @@
     "poslanec": "Jan Jakob",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6687",
     "asistenti": [
-      "Jana Soukupová",
       "Lukáš Hejduk",
       "Markéta Pečenková",
       "Miroslava Hradilová"
@@ -1518,7 +1521,9 @@
   {
     "poslanec": "Mgr. Pavel Šindelář",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6691",
-    "asistenti": []
+    "asistenti": [
+      "Ivona Fišerová"
+    ]
   },
   {
     "poslanec": "Ing. Karla Šlechtová",
