@@ -714,7 +714,6 @@
     "asistenti": [
       "Jana Krákorová",
       "Jiří Juráš",
-      "Tomáš Rak",
       "Vendula Sukupová"
     ]
   },
@@ -1443,14 +1442,6 @@
     ]
   },
   {
-    "poslanec": "Mgr. Roman Sklenák",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5965",
-    "asistenti": [
-      "Bc. Jaroslav Lempera",
-      "Petr Kolečkář"
-    ]
-  },
-  {
     "poslanec": "Ing. et Ing. Jan Skopeček",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6418",
     "asistenti": [
@@ -1576,6 +1567,11 @@
       "Martin Štoll",
       "Miroslav Ryba"
     ]
+  },
+  {
+    "poslanec": "Mgr. Lukáš Vágner",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6717",
+    "asistenti": []
   },
   {
     "poslanec": "prof. RNDr. František Vácha, Ph.D.",
