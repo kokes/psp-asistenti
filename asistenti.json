@@ -172,7 +172,9 @@
   {
     "poslanec": "MUDr. Milan Brázdil",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6185",
-    "asistenti": []
+    "asistenti": [
+      "Mgr. Miloslav Tichý"
+    ]
   },
   {
     "poslanec": "Ing. Lubomír Brož",
@@ -278,7 +280,8 @@
     "poslanec": "Mgr. Milan Feranec",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6448",
     "asistenti": [
-      "Jaroslava Hustáková"
+      "Jaroslava Hustáková",
+      "Mgr. Miloslav Tichý"
     ]
   },
   {
@@ -292,7 +295,7 @@
     "poslanec": "Ing. Radim Fiala",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=5459",
     "asistenti": [
-      "Moudrý  ",
+      "Radovan Moudrý",
       "Václav Koudelka"
     ]
   },
@@ -357,7 +360,9 @@
   {
     "poslanec": "Mgr. Martin Hájek",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6752",
-    "asistenti": []
+    "asistenti": [
+      "PhDr. Mgr. Dušan Kalášek"
+    ]
   },
   {
     "poslanec": "Mgr. Jana Hanzlíková",
@@ -381,6 +386,7 @@
     "poslanec": "Ing. Jiří Havránek",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6755",
     "asistenti": [
+      "Jiří Ďurovič",
       "Richard Beran"
     ]
   },
@@ -427,9 +433,7 @@
   {
     "poslanec": "PhDr. Ing. Mgr. Jan Hrnčíř, MBA, LL.M.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6455",
-    "asistenti": [
-      "Irena Staňková"
-    ]
+    "asistenti": []
   },
   {
     "poslanec": "prof. Ing. Ivan Jáč, CSc.",
@@ -513,7 +517,11 @@
   {
     "poslanec": "Lenka Knechtová",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6775",
-    "asistenti": []
+    "asistenti": [
+      "Jana Lancůchová",
+      "Michal Kopenec",
+      "Vítězslav Klement"
+    ]
   },
   {
     "poslanec": "Mgr. Jiří Kobza",
@@ -597,7 +605,10 @@
   {
     "poslanec": "Ing. Jana Krutáková",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6466",
-    "asistenti": []
+    "asistenti": [
+      "Anna - Marie Houserová",
+      "Veronika Souayeh"
+    ]
   },
   {
     "poslanec": "Ing. Roman Kubíček, Ph.D.",
@@ -621,7 +632,10 @@
   {
     "poslanec": "Jan Kuchař",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6735",
-    "asistenti": []
+    "asistenti": [
+      "Jitka Ettler Štěpánková",
+      "Petr Nutil"
+    ]
   },
   {
     "poslanec": "Ing. Martin Kukla",
@@ -633,7 +647,9 @@
   {
     "poslanec": "Mgr. Martin Kupka",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6538",
-    "asistenti": []
+    "asistenti": [
+      "Richard Beran"
+    ]
   },
   {
     "poslanec": "Mgr. Jan Lacina",
@@ -696,7 +712,9 @@
   {
     "poslanec": "Mgr. Ing. Taťána Malá",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6468",
-    "asistenti": []
+    "asistenti": [
+      "Roman Filip"
+    ]
   },
   {
     "poslanec": "Karla Maříková",
@@ -722,8 +740,8 @@
     "poslanec": "Mgr. et Mgr. Jakub Michálek",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6477",
     "asistenti": [
-      "Kristýna Plašilová",
-      "Martin Štancl"
+      "Mgr. Kristýna Plašilová",
+      "Mgr. Martin Štancl"
     ]
   },
   {
@@ -759,7 +777,9 @@
   {
     "poslanec": "Ing. Hana Naiclerová, MBA",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6771",
-    "asistenti": []
+    "asistenti": [
+      "Jakub Čech"
+    ]
   },
   {
     "poslanec": "Bc. Jiří Navrátil, MBA",
@@ -811,7 +831,9 @@
   {
     "poslanec": "Tomio Okamura",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6105",
-    "asistenti": []
+    "asistenti": [
+      "Oto Ledvinka"
+    ]
   },
   {
     "poslanec": "Ladislav Okleštěk",
@@ -873,7 +895,9 @@
   {
     "poslanec": "Mgr. Ing. Pavla Pivoňka Vaňková",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6762",
-    "asistenti": []
+    "asistenti": [
+      "Ing. Jiří Falout"
+    ]
   },
   {
     "poslanec": "Ing. Jaroslava Pokorná Jermanová",
@@ -887,7 +911,8 @@
     "poslanec": "Ing. Marie Pošarová",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6745",
     "asistenti": [
-      "Irena Staňková"
+      "Irena Staňková",
+      "Tomáš Doležal"
     ]
   },
   {
@@ -914,7 +939,9 @@
   {
     "poslanec": "prof. Ing. Karel Rais, CSc., MBA",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6158",
-    "asistenti": []
+    "asistenti": [
+      "Jana Lancůchová"
+    ]
   },
   {
     "poslanec": "Mgr. Vít Rakušan",
@@ -1177,7 +1204,9 @@
   {
     "poslanec": "Mgr. Radek Vondráček",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6165",
-    "asistenti": []
+    "asistenti": [
+      "Mgr. Miroslav Michajlovič"
+    ]
   },
   {
     "poslanec": "prof. Ing. Ivo Vondrák, CSc.",
@@ -1200,6 +1229,7 @@
     "poslanec": "Mgr. Ing. Lubomír Wenzl",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6730",
     "asistenti": [
+      "Jana Lancůchová",
       "Michal Kopenec"
     ]
   },
@@ -1228,7 +1258,10 @@
   {
     "poslanec": "Michal Zuna",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6796",
-    "asistenti": []
+    "asistenti": [
+      "Anna Teturová",
+      "Markéta Pečenková"
+    ]
   },
   {
     "poslanec": "PhDr. Pavel Žáček, Ph.D.",
