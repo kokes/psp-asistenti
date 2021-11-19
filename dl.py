@@ -18,8 +18,8 @@ if __name__ == "__main__":
         htp = lxml.html.fromstring(rp.text)
         name = htp.cssselect("h1")[0].text.replace("\xa0", " ")
         assistants = [
-            next(j.itertext()).replace("\xa0", " ")
-            for j in htp.cssselect("ul.assistants li")
+            j.text_content().replace("\xa0", " ")
+            for j in htp.cssselect("ul.assistants li > strong")
         ]
         data.append(
             {
