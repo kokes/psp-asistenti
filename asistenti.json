@@ -58,7 +58,10 @@
   {
     "poslanec": "Margita Balaštíková",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6177",
-    "asistenti": []
+    "asistenti": [
+      "Kateřina Šupová",
+      "Petr Müller"
+    ]
   },
   {
     "poslanec": "PhDr. Ivan Bartoš, Ph.D.",
@@ -258,7 +261,8 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=5449",
     "asistenti": [
       "Lenka Shejbalová",
-      "Marcel Sikora"
+      "Marcel Sikora",
+      "Vojtěch Filsák"
     ]
   },
   {
@@ -266,7 +270,8 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=5901",
     "asistenti": [
       "Ing. Miroslav Sazeček",
-      "Lucie Krejčová"
+      "Lucie Krejčová",
+      "Nataliya Kolomičenková"
     ]
   },
   {
@@ -295,7 +300,8 @@
     "poslanec": "Ing. Klára Dostálová",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6430",
     "asistenti": [
-      "Dita Mašková"
+      "Dita Mašková",
+      "Martin Vodička"
     ]
   },
   {
@@ -322,6 +328,7 @@
     "asistenti": [
       "Bc. Eva Huťťová",
       "Eva Bendová",
+      "MVDr. Marek Sedláček",
       "Matouš Zlámal"
     ]
   },
@@ -416,6 +423,7 @@
     "poslanec": "Mgr. Josef Flek",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6750",
     "asistenti": [
+      "David Pergl",
       "Filip Dembický"
     ]
   },
@@ -447,6 +455,7 @@
     "poslanec": "Mgr. Bc. Pavla Golasowská, DiS.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6292",
     "asistenti": [
+      "Ing. Tomáš Barák",
       "Lenka Shejbalová"
     ]
   },
@@ -471,6 +480,7 @@
     "poslanec": "Mgr. Martin Hájek",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6752",
     "asistenti": [
+      "Jakub Šich",
       "PhDr. Mgr. Dušan Kalášek"
     ]
   },
@@ -502,7 +512,8 @@
     "asistenti": [
       "Jiří Ďurovič",
       "Mgr. David Vaculík",
-      "Richard Beran"
+      "Richard Beran",
+      "Václav Smolka"
     ]
   },
   {
@@ -533,7 +544,9 @@
     "poslanec": "Jan Hofmann",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6759",
     "asistenti": [
-      "Jiří Dalecký"
+      "Barbora Pešková",
+      "Jiří Dalecký",
+      "Michal Koliáš"
     ]
   },
   {
@@ -596,6 +609,7 @@
       "Alena Pokutová",
       "Ivana Martáková Blaťáková",
       "Kateřina Šupová",
+      "Michal Zaydlar",
       "Petr Müller",
       "Zdeňka Rybová"
     ]
@@ -846,7 +860,8 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6739",
     "asistenti": [
       "Ladislav Honusek",
-      "Matouš Polách"
+      "Matouš Polách",
+      "Petr Pivko"
     ]
   },
   {
@@ -914,6 +929,7 @@
     "poslanec": "Mgr. Lubomír Metnar",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6544",
     "asistenti": [
+      "Alena Pokutová",
       "Mgr. Zdeňka Pikner"
     ]
   },
@@ -990,7 +1006,8 @@
       "Jan Zilvar",
       "Kateřina Šupová",
       "Pavel Martiník",
-      "Petr Müller"
+      "Petr Müller",
+      "Václav Kovář"
     ]
   },
   {
@@ -1193,6 +1210,7 @@
     "poslanec": "PhDr. Michael Rataj, Ph.D.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6781",
     "asistenti": [
+      "Eliška Kloučková",
       "Ladislav Honusek"
     ]
   },
@@ -1421,7 +1439,9 @@
     "poslanec": "Ing. Antonín Tesařík",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=5332",
     "asistenti": [
-      "Jan Wolf"
+      "Bc. Petr Šebor",
+      "Jan Wolf",
+      "Mgr. František Bureš, MBA, LL.M"
     ]
   },
   {
@@ -1494,6 +1514,7 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6791",
     "asistenti": [
       "Ing. Jiří Falout",
+      "Jan Čekel",
       "Pavel Trantina"
     ]
   },
@@ -1561,7 +1582,8 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6731",
     "asistenti": [
       "JUDr. Miroslav Fořt, MBA",
-      "JUDr. Štěpán Stupčuk"
+      "JUDr. Štěpán Stupčuk",
+      "Mgr. Zdeňka Pikner"
     ]
   },
   {
@@ -1576,6 +1598,7 @@
     "poslanec": "Ing. Miroslav Zborovský",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6794",
     "asistenti": [
+      "Jaromír Jestřebecký",
       "Mgr. Jana Janovská",
       "Pavel Krček"
     ]
