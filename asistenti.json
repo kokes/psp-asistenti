@@ -531,7 +531,9 @@
   {
     "poslanec": "doc. Ing. Karel Havlíček, Ph.D., MBA",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6621",
-    "asistenti": []
+    "asistenti": [
+      "Aneta Bernardová"
+    ]
   },
   {
     "poslanec": "Ing. Jiří Havránek",
@@ -927,7 +929,9 @@
   {
     "poslanec": "Mgr. Ondřej Lochman, Ph.D.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6779",
-    "asistenti": []
+    "asistenti": [
+      "Daniela Kaiserová"
+    ]
   },
   {
     "poslanec": "PhDr. Ivana Mádlová, Ph.D., MBA",
@@ -1328,14 +1332,17 @@
     "poslanec": "Mgr. Rudolf Salvetr",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6744",
     "asistenti": [
-      "Ivona Fišerová"
+      "Ivana Kudryová",
+      "Ivona Fišerová",
+      "Jiří Tománek"
     ]
   },
   {
     "poslanec": "JUDr. Alena Schillerová, Ph.D.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6545",
     "asistenti": [
-      "Jana Lancůchová"
+      "Jana Lancůchová",
+      "Petr Kavka"
     ]
   },
   {
@@ -1353,6 +1360,7 @@
     "poslanec": "Ing. et Ing. Jan Skopeček, Ph.D.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6418",
     "asistenti": [
+      "Filip Šebesta",
       "Ing. Jaroslav Šmíd",
       "Mgr. Filip Nekola, MPA"
     ]
@@ -1511,7 +1519,8 @@
     "poslanec": "Ing. Karel Tureček",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6240",
     "asistenti": [
-      "Martin Štoll"
+      "Martin Štoll",
+      "Miroslav Ryba"
     ]
   },
   {
@@ -1547,7 +1556,6 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6168",
     "asistenti": [
       "JUDr. Veronika Kapras",
-      "Jan Lembas",
       "Kateřina Šunková Horáková"
     ]
   },
