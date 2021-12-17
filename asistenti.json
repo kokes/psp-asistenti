@@ -105,7 +105,11 @@
   {
     "poslanec": "Mgr. Martin Baxa",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6435",
-    "asistenti": []
+    "asistenti": [
+      "Kateřina Pokorná",
+      "Linda Trefná Kryštofová",
+      "Michal Šašek"
+    ]
   },
   {
     "poslanec": "Ing. Petr Beitl",
@@ -341,6 +345,8 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6728",
     "asistenti": [
       "Andrea Kraśko",
+      "David Záruba",
+      "Tomáš Pergl",
       "Vojtěch Svoboda"
     ]
   },
