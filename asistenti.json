@@ -223,6 +223,7 @@
     "poslanec": "Ing. Stanislav Blaha",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6438",
     "asistenti": [
+      "Daniel Jirků",
       "Ivona Fišerová",
       "Petr Střítežský",
       "Zuzana Motyková"
@@ -233,6 +234,7 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6079",
     "asistenti": [
       "Barbora Jägrová",
+      "HOPPE F Group s.r.o. - Mgr. Libor Hoppe",
       "Ing. Miroslav Tyl",
       "Jana Niklová",
       "Monika Švaříčková",
@@ -242,7 +244,9 @@
   {
     "poslanec": "Mgr. Richard Brabec",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6184",
-    "asistenti": []
+    "asistenti": [
+      "Ing. Jakub Komárek"
+    ]
   },
   {
     "poslanec": "MUDr. Milan Brázdil",
@@ -257,7 +261,8 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6725",
     "asistenti": [
       "Aneta Bernardová",
-      "JUDr. Veronika Kapras"
+      "JUDr. Veronika Kapras",
+      "Jan Klusoň"
     ]
   },
   {
@@ -317,7 +322,9 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6727",
     "asistenti": [
       "Adéla Valentová",
-      "Jana Žáková"
+      "Jana Žáková",
+      "Matyáš Baloun",
+      "Mikuláš Halás"
     ]
   },
   {
@@ -487,6 +494,7 @@
     "poslanec": "Mgr. Bc. Pavla Golasowská, DiS.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6292",
     "asistenti": [
+      "Ing. Bohuslav Niemiec",
       "Ing. Tomáš Barák",
       "Lenka Shejbalová"
     ]
@@ -539,7 +547,8 @@
     "poslanec": "doc. Ing. Karel Havlíček, Ph.D., MBA",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6621",
     "asistenti": [
-      "Aneta Bernardová"
+      "Aneta Bernardová",
+      "Lucie Kubovičová"
     ]
   },
   {
@@ -1088,6 +1097,7 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6768",
     "asistenti": [
       "Eliška Hásková",
+      "Jana Hinke",
       "Miroslav Hlaváč"
     ]
   },
@@ -1217,6 +1227,7 @@
     "poslanec": "Ing. Jaroslava Pokorná Jermanová",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6202",
     "asistenti": [
+      "Hana Konopová",
       "Marcela Dudková",
       "Marcela Melková",
       "Pavel Dvořák"
@@ -1235,7 +1246,8 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6746",
     "asistenti": [
       "Karolína Rezková",
-      "Lucie Hofmanová"
+      "Lucie Hofmanová",
+      "Matěj Hlavatý"
     ]
   },
   {
@@ -1261,6 +1273,7 @@
     "poslanec": "prof. Ing. Karel Rais, CSc., MBA",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6158",
     "asistenti": [
+      "Ing. Lenka Smolíková",
       "JUDr. Ing. Mgr. Marek Hodulík",
       "Jana Lancůchová",
       "Jiří Nestával",
@@ -1282,14 +1295,17 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6781",
     "asistenti": [
       "Eliška Kloučková",
-      "Ladislav Honusek"
+      "Ladislav Honusek",
+      "Lukáš Tkačík"
     ]
   },
   {
     "poslanec": "Michal Ratiborský",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6523",
     "asistenti": [
+      "Dominika Havlíčková",
       "Ing. Jan Řehounek",
+      "Ing. Terezie Böhmová, DiS.",
       "Kateřina Šupová",
       "Petr Müller"
     ]
@@ -1297,7 +1313,9 @@
   {
     "poslanec": "Mgr. Bc. et Bc. et Bc. Jan Richter",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6500",
-    "asistenti": []
+    "asistenti": [
+      "Mgr. Jan Richter"
+    ]
   },
   {
     "poslanec": "PhDr. Olga Richterová, Ph.D.",
@@ -1450,6 +1468,7 @@
     "poslanec": "MgA. Pavel Svoboda, Ph.D.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6802",
     "asistenti": [
+      "Commpanions communication s.r.o. - Martina Baťová",
       "Ondřej Müller",
       "Ondřej Šrámek"
     ]
@@ -1470,7 +1489,8 @@
     "asistenti": [
       "Anna Drozdková",
       "Ladislav Honusek",
-      "Lucie Vyvialová"
+      "Lucie Vyvialová",
+      "Lukáš Tkačík"
     ]
   },
   {
@@ -1651,6 +1671,7 @@
     "poslanec": "Mgr. Marek Výborný",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6513",
     "asistenti": [
+      "František Jelínek",
       "JUDr. Vilém Anzenbacher, Ph.D.",
       "Mgr. Josef Wolf"
     ]
@@ -1659,6 +1680,7 @@
     "poslanec": "Mgr. Ing. Lubomír Wenzl",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6730",
     "asistenti": [
+      "Ing. Bc. Kateřina Horáčková, DiS.",
       "Jana Lancůchová",
       "Michal Kopenec"
     ]
@@ -1720,7 +1742,8 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6154",
     "asistenti": [
       "Adéla Brozmanová",
-      "Eliška Hásková"
+      "Eliška Hásková",
+      "Tomáš Jílek"
     ]
   }
 ]
