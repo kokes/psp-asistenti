@@ -4,7 +4,7 @@ import requests
 import lxml.html
 
 base_url = "https://www.psp.cz/sqw/hp.sqw?k=192"
-HTTP_TIMEOUT = (30, None)
+HTTP_TIMEOUT = (300, None)
 
 if __name__ == "__main__":
     r = requests.get(base_url, timeout=HTTP_TIMEOUT)
