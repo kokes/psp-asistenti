@@ -70,7 +70,6 @@
     "poslanec": "PhDr. Ivan Bartoš, Ph.D.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6433",
     "asistenti": [
-      "Anna Doová",
       "Jakub Dušánek"
     ]
   },
@@ -264,6 +263,7 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6725",
     "asistenti": [
       "Aneta Bernardová",
+      "Caroline Alberta Schiestl, MSc",
       "JUDr. Veronika Kapras",
       "Jan Klusoň",
       "MZ TRAINING s.r.o. - Ing. Michal Kocanda",
@@ -328,6 +328,7 @@
     "asistenti": [
       "Jana Žáková",
       "Matyáš Baloun",
+      "Michal Kopecký",
       "Mikuláš Halás"
     ]
   },
@@ -423,7 +424,9 @@
   {
     "poslanec": "Prof. PhDr. Petr Fiala, Ph.D., LL.M.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6074",
-    "asistenti": []
+    "asistenti": [
+      "Pavel Šaradín"
+    ]
   },
   {
     "poslanec": "Ing. Radim Fiala",
@@ -453,8 +456,8 @@
     "poslanec": "Romana Fischerová",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6749",
     "asistenti": [
-      "Aneta Bernardová",
-      "Bc. Veronika Šefl, DiS."
+      "Bc. Veronika Šefl, DiS.",
+      "Caroline Alberta Schiestl, MSc"
     ]
   },
   {
@@ -1630,6 +1633,7 @@
     "poslanec": "Mgr. Milada Voborská",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6790",
     "asistenti": [
+      "Anna Šambergerová",
       "Mgr. Vlasta Urbánková"
     ]
   },
