@@ -403,15 +403,6 @@
     ]
   },
   {
-    "poslanec": "Mgr. Jan Farský",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5909",
-    "asistenti": [
-      "Jan Nešpor",
-      "Jan Pekárek",
-      "Lucie Krejčová"
-    ]
-  },
-  {
     "poslanec": "Mgr. Milan Feranec",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6448",
     "asistenti": [
@@ -447,6 +438,7 @@
     "poslanec": "PharmDr. Petr Fifka",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6748",
     "asistenti": [
+      "Ing. Václav Kožený, Ph.D.",
       "Mgr. Filip Nekola, MPA"
     ]
   },
@@ -938,6 +930,11 @@
       "Matouš Polách",
       "Petr Pivko"
     ]
+  },
+  {
+    "poslanec": "Ing. Jarmila Levko",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6809",
+    "asistenti": []
   },
   {
     "poslanec": "Mgr. Martina Lisová",
