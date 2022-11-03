@@ -288,7 +288,6 @@
     "poslanec": "Mgr. Jaroslav Bžoch",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6441",
     "asistenti": [
-      "Jiří Štábl",
       "Majid Shamas Toma",
       "Tomáš Horák"
     ]
@@ -332,9 +331,11 @@
     "poslanec": "Eva Decroix, MBA",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6727",
     "asistenti": [
+      "Jan Železný",
       "Jana Žáková",
       "Matyáš Baloun",
-      "Michal Kopecký"
+      "Michal Kopecký",
+      "Ondřej Kaška"
     ]
   },
   {
@@ -445,7 +446,6 @@
     "poslanec": "PharmDr. Petr Fifka",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6748",
     "asistenti": [
-      "Ing. Václav Kožený, Ph.D.",
       "Mgr. Filip Nekola, MPA"
     ]
   },
@@ -1214,7 +1214,6 @@
     "poslanec": "Mgr. Jana Pastuchová",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6225",
     "asistenti": [
-      "Bc. Kateřina Ostrá",
       "Jakub Konrád",
       "Kamila Hamáčková",
       "Klára Dubovská"
