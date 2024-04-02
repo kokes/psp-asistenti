@@ -1,7 +1,10 @@
 import json
 from urllib.parse import urljoin
+import ssl
 import requests
 import lxml.html
+
+ssl._create_default_https_context = ssl._create_unverified_context
 
 base_url = "https://www.psp.cz/sqw/hp.sqw?k=192"
 HTTP_TIMEOUT = (300, None)
@@ -13,6 +16,7 @@ if __name__ == "__main__":
     data = []
     ht = lxml.html.fromstring(r.text)
     for link in ht.cssselect("ul.person-list li span a"):
+        print(link)
         person_url = urljoin(base_url, link.attrib["href"])
         rp = requests.get(person_url, timeout=HTTP_TIMEOUT)
         rp.raise_for_status()
