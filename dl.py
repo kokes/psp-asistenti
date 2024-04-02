@@ -4,10 +4,11 @@ import requests
 import lxml.html
 
 base_url = "https://www.psp.cz/sqw/hp.sqw?k=192"
-HTTP_TIMEOUT = (300, None)
+HTTP_TIMEOUT = (15, None)
 
 if __name__ == "__main__":
-    r = requests.get(base_url, timeout=HTTP_TIMEOUT)
+    ua = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:106.0) Gecko/20100101 Firefox/106.0"
+    r = requests.get(base_url, timeout=HTTP_TIMEOUT, headers={"user-agent": ua})
     r.raise_for_status()
 
     data = []
