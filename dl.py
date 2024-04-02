@@ -32,11 +32,12 @@ if __name__ == "__main__":
     links = ht.cssselect("ul.person-list li span a")
     random.shuffle(links)
     for link in links[: args.n]:
-        print(link.text_content())
         person_url = urljoin(base_url, link.attrib["href"])
         with urlopen(person_url, timeout=HTTP_TIMEOUT) as rp:
-            htp = lxml.html.parse(rp).getroot()
+            dt = rp.read().decode("windows-1250")
+            htp = lxml.html.fromstring(dt)
         name = htp.cssselect("h1")[0].text.replace("\xa0", " ")
+        print(name)
         assistants = [
             j.text_content().replace("\xa0", " ")
             for j in htp.cssselect("ul.assistants li > strong")
