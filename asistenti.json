@@ -1,5 +1,84 @@
 [
   {
+    "poslanec": "Jaroslav Bašta",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=207",
+    "asistenti": [
+      "Ivana Říhová Jarkovská",
+      "Josef Prokeš",
+      "Marcel Dlask",
+      "Vladimíra Bondarenková"
+    ]
+  },
+  {
+    "poslanec": "Ing. Petr Bendl",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=346",
+    "asistenti": [
+      "JUDr. Jiří Černý",
+      "Libuše Volfová"
+    ]
+  },
+  {
+    "poslanec": "Marek Benda",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=4",
+    "asistenti": [
+      "Ing. Miroslav Tyl",
+      "Michal Vávra",
+      "Petr Břicháček"
+    ]
+  },
+  {
+    "poslanec": "PhDr. Pavel Žáček, Ph.D.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5226",
+    "asistenti": [
+      "JUDr. Lenka Ptáčková Melicharová",
+      "Lucie Včeláková"
+    ]
+  },
+  {
+    "poslanec": "Ing. Antonín Tesařík",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5332",
+    "asistenti": [
+      "Bc. Petr Šebor",
+      "Jan Zugar",
+      "Mgr. František Bureš, MBA, LL.M",
+      "Vojtěch Šolc"
+    ]
+  },
+  {
+    "poslanec": "Ing. Jan Bauer",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5379",
+    "asistenti": [
+      "Ing. Eva Suchá",
+      "Iveta Uhlíková",
+      "Ivona Fišerová",
+      "RNDr. Jan Zahradník"
+    ]
+  },
+  {
+    "poslanec": "Ing. Jiří Carbol",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5449",
+    "asistenti": [
+      "Marcel Sikora",
+      "Vojtěch Filsák"
+    ]
+  },
+  {
+    "poslanec": "Ing. Radim Fiala",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5459",
+    "asistenti": [
+      "Radovan Moudrý",
+      "Václav Koudelka"
+    ]
+  },
+  {
+    "poslanec": "Ing. Vladimíra Lesenská",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5477",
+    "asistenti": [
+      "CORPTEC a.s. - Jiří Šitina",
+      "Zdeněk Kotouš"
+    ]
+  },
+  {
     "poslanec": "Mgr. Ivan Adamec",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=5700",
     "asistenti": [
@@ -8,12 +87,135 @@
     ]
   },
   {
-    "poslanec": "prof. MUDr. Věra Adámková, CSc.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6254",
+    "poslanec": "Ing. Jan Bureš, DBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5899",
     "asistenti": [
-      "Caroline Alberta Schiestl, MSc",
-      "JUDr. Jana Svatoňová",
-      "Vladimír Broukal"
+      "Bc. Kateřina Faltýnková",
+      "Kristýna Kopecká",
+      "Tomáš Grosser"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Josef Cogan",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5901",
+    "asistenti": [
+      "Ing. Miroslav Sazeček",
+      "Lucie Krejčová",
+      "Matěj Hlavatý",
+      "Nataliya Kolomičenková"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Jana Černochová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5903",
+    "asistenti": [
+      "Jan Pleskač",
+      "Jana Jelínková",
+      "Ladislav Vovesný"
+    ]
+  },
+  {
+    "poslanec": "Jaroslav Foldyna",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5911",
+    "asistenti": [
+      "EUROPE Visual Consulting - Michal Kraft",
+      "Ing. Dana Jirchářová",
+      "Miloš Černohorský",
+      "Milutin Ilic"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Petr Gazdík",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5914",
+    "asistenti": [
+      "Jáchym Růžička",
+      "Marek Smetana",
+      "Matěj Brýdl"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Helena Langšádlová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5943",
+    "asistenti": [
+      "Mgr. Hedvika Pánková Nejedlá"
+    ]
+  },
+  {
+    "poslanec": "JUDr. Pavel Staněk, MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5968",
+    "asistenti": [
+      "Adam Lukaštík",
+      "Kristýna Kopecká",
+      "Petra Hučíková"
+    ]
+  },
+  {
+    "poslanec": "Ing. Zbynìk Stanjura",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5969",
+    "asistenti": [
+      "Jana Kuchaøová",
+      "Libue Volfová"
+    ]
+  },
+  {
+    "poslanec": "Doc. MUDr. Bohuslav Svoboda, CSc.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6007",
+    "asistenti": [
+      "Igor Bacharev",
+      "Petra Kadlecová"
+    ]
+  },
+  {
+    "poslanec": "Prof. PhDr. Petr Fiala, Ph.D., LL.M.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6074",
+    "asistenti": [
+      "Pavel Šaradín"
+    ]
+  },
+  {
+    "poslanec": "JUDr. Pavel Blažek, Ph.D.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6079",
+    "asistenti": [
+      "Barbora Jägrová",
+      "HOPPE F Group s.r.o. - Mgr. Libor Hoppe",
+      "Ing. Miroslav Tyl",
+      "Mgr. Jonatan Hána",
+      "Monika Švaříčková"
+    ]
+  },
+  {
+    "poslanec": "Tomio Okamura",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6105",
+    "asistenti": [
+      "Oto Ledvinka",
+      "Vladimír Lacko"
+    ]
+  },
+  {
+    "poslanec": "MVDr. Pavel Bělobrádek, Ph.D., MPA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6138",
+    "asistenti": [
+      "Jan Novák",
+      "MÁLEK & PARTNERS, s.r.o. - Gabriela Kloudová",
+      "MÁLEK & PARTNERS, s.r.o. - Roman Málek, MBA, MSc.",
+      "Stanislav Drašnar",
+      "Vendulka Štěpánová"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Stanislav Berkovec",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6143",
+    "asistenti": [
+      "Ing. Pavlína Kuncová",
+      "Ing. et Ing. Jaroslav Švehla",
+      "Marcela Melková"
+    ]
+  },
+  {
+    "poslanec": "Ing. Markéta Pekarová Adamová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6147",
+    "asistenti": [
+      "Kateřina Pastorková"
     ]
   },
   {
@@ -24,37 +226,69 @@
     ]
   },
   {
-    "poslanec": "Mgr. Andrea Babišová, MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6428",
+    "poslanec": "PhDr. Marek Ženíšek, Ph.D.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6154",
     "asistenti": [
-      "Lukáš Oprchalský",
-      "Robert Vondrovic"
+      "Anna Hulvertová",
+      "Miriam Faltová",
+      "Miroslav Hlaváč",
+      "Tomáš Jílek"
     ]
   },
   {
-    "poslanec": "Ing. Ondřej Babka",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6623",
+    "poslanec": "prof. Ing. Karel Rais, CSc., MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6158",
     "asistenti": [
-      "Ing. Marek Liška",
-      "Ing. et Ing. Martin Zeman"
+      "Ing. Lenka Smolíková",
+      "JUDr. Ing. Mgr. Marek Hodulík",
+      "JUDr. Veronika Kapras",
+      "Petr Valkovič",
+      "Veronika Stejskalová",
+      "Vítězslav Klement"
     ]
   },
   {
-    "poslanec": "Ing. Jana Bačíková, MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6719",
+    "poslanec": "Mgr. Radek Vondráček",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6165",
     "asistenti": [
-      "Barbora Jägrová",
-      "Pavel Kotrba",
-      "Rostislav Kovařík",
-      "Zuzana Kupčíková"
+      "Ing. Ondřej Polák",
+      "Mgr. Miroslav Michajlovič"
     ]
   },
   {
-    "poslanec": "prof. JUDr. Vladimír Balaš, CSc.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6797",
+    "poslanec": "Ing. Jan Volný",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6166",
     "asistenti": [
-      "Erich Kříž",
-      "Pavlína Krausová"
+      "Jan Závodský",
+      "Lenka Opavová",
+      "Mgr. Michal Marek"
+    ]
+  },
+  {
+    "poslanec": "prof. JUDr. Helena Válková, CSc.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6168",
+    "asistenti": [
+      "JUDr. Veronika Kapras",
+      "Kateřina Šunková Horáková",
+      "Mgr. Matěj Dědina"
+    ]
+  },
+  {
+    "poslanec": "Ladislav Okleštěk",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6172",
+    "asistenti": [
+      "Aneta Benešová",
+      "Ing. Jaromír Hruban",
+      "JUDr. Vladimír Lichnovský",
+      "Mgr. Roman Drkula"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Nina Nováková",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6176",
+    "asistenti": [
+      "Coworking BOBR s.r.o. - Ing. Robert Pecha",
+      "Lenka Shejbalová"
     ]
   },
   {
@@ -69,16 +303,6 @@
     ]
   },
   {
-    "poslanec": "PhDr. Ivan Bartoš, Ph.D.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6433",
-    "asistenti": [
-      "Ivana Miklíková",
-      "Kristina Jochmannová",
-      "Tomáš Kopečný",
-      "Zuzana Petrůvová"
-    ]
-  },
-  {
     "poslanec": "Ing. Jan Bartošek",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6178",
     "asistenti": [
@@ -87,23 +311,222 @@
     ]
   },
   {
-    "poslanec": "Jaroslav Bašta",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=207",
+    "poslanec": "Mgr. Ondřej Benešík",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6179",
     "asistenti": [
-      "Ivana Říhová Jarkovská",
-      "Josef Prokeš",
-      "Marcel Dlask",
-      "Vladimíra Bondarenková"
+      "Antonie Vaculíková",
+      "Bc. Martin Schön",
+      "Marie Richterová",
+      "Mgr. Martin Svárovský",
+      "Otakar Duchek",
+      "Pavel Mimochodek"
     ]
   },
   {
-    "poslanec": "Ing. Jan Bauer",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5379",
+    "poslanec": "Mgr. Richard Brabec",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6184",
     "asistenti": [
-      "Ing. Eva Suchá",
-      "Iveta Uhlíková",
-      "Ivona Fišerová",
-      "RNDr. Jan Zahradník"
+      "Ing. Jakub Komárek",
+      "Petra Roubíčková",
+      "Simona Sedlářová"
+    ]
+  },
+  {
+    "poslanec": "MUDr. Milan Brázdil",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6185",
+    "asistenti": [
+      "Mgr. Jana Pěkná",
+      "Mgr. Miloslav Tichý"
+    ]
+  },
+  {
+    "poslanec": "Ing. Jaroslav Faltýnek",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6190",
+    "asistenti": [
+      "Aneta Benešová",
+      "Ing. Jaromír Hruban",
+      "Veronika Stejskalová"
+    ]
+  },
+  {
+    "poslanec": "MUDr. Miloslav Janulík",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6201",
+    "asistenti": [
+      "Lukáš Makovec"
+    ]
+  },
+  {
+    "poslanec": "Ing. Jaroslava Pokorná Jermanová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6202",
+    "asistenti": [
+      "Marcela Melková",
+      "Michaela Stibůrková",
+      "Pavel Dvořák",
+      "PhDr. Stanislav Dvořák"
+    ]
+  },
+  {
+    "poslanec": "Ing. Marian Jurečka",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6205",
+    "asistenti": [
+      "Filip Šafr",
+      "Ludmila Kopecká"
+    ]
+  },
+  {
+    "poslanec": "MUDr. Vít Kaňkovský",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6207",
+    "asistenti": [
+      "Bc. Dagmar Hosová",
+      "Mgr. Jana Skalková"
+    ]
+  },
+  {
+    "poslanec": "MUDr. David Kasal, MHA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6209",
+    "asistenti": [
+      "Daniel Vodák",
+      "Jaroslav Zavadil",
+      "Olga Šormová",
+      "Petra Lichorobiecová",
+      "Vilém Meduna",
+      "Štěpán Lisý"
+    ]
+  },
+  {
+    "poslanec": "Ing. Martin Kolovratník",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6211",
+    "asistenti": [
+      "Ing. Adam Kalous",
+      "Ing. Roman Sodomka",
+      "Lukáš Luzar"
+    ]
+  },
+  {
+    "poslanec": "Ing. Věra Kovářová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6214",
+    "asistenti": [
+      "Mgr. Jitka Soukupová",
+      "Patrik Kuba"
+    ]
+  },
+  {
+    "poslanec": "Ing. Roman Kubíček, Ph.D., MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6215",
+    "asistenti": [
+      "Simona Sedlářová",
+      "Tomáš Kubín",
+      "Štěpán Stupčuk"
+    ]
+  },
+  {
+    "poslanec": "Ing. Michal Kučera",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6216",
+    "asistenti": [
+      "Jana Jirušková",
+      "Markéta Vojanová",
+      "Vojtěch Vágner"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Jana Pastuchová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6225",
+    "asistenti": [
+      "Daniel Köppl",
+      "Jakub Konrád",
+      "Kamila Hamáčková",
+      "Klára Dubovská"
+    ]
+  },
+  {
+    "poslanec": "Ing. Karel Tureček",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6240",
+    "asistenti": [
+      "Martin Štoll",
+      "Miroslav Ryba"
+    ]
+  },
+  {
+    "poslanec": "Ing. Josef Kott",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6246",
+    "asistenti": [
+      "David Rožánek",
+      "Kateřina Friedová"
+    ]
+  },
+  {
+    "poslanec": "prof. MUDr. Věra Adámková, CSc.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6254",
+    "asistenti": [
+      "Caroline Alberta Schiestl, MSc",
+      "JUDr. Jana Svatoňová",
+      "Vladimír Broukal"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Bc. Pavla Golasowská, DiS.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6292",
+    "asistenti": [
+      "Ing. Bohuslav Niemiec",
+      "Ing. Michal Jedlička",
+      "Ing. Tomáš Barák",
+      "Lenka Shejbalová"
+    ]
+  },
+  {
+    "poslanec": "Ing. František Petrtýl",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6409",
+    "asistenti": [
+      "Marcela Melková",
+      "Tomáš Haspeklo"
+    ]
+  },
+  {
+    "poslanec": "Ing. et Ing. Jan Skopeček, Ph.D.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6418",
+    "asistenti": [
+      "Alice Šmídová",
+      "Filip Šebesta",
+      "Ing. Filip Emmer",
+      "Mgr. Filip Nekola, MPA"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Andrea Babišová, MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6428",
+    "asistenti": [
+      "Lukáš Oprchalský",
+      "Robert Vondrovic"
+    ]
+  },
+  {
+    "poslanec": "Ing. Klára Dostálová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6430",
+    "asistenti": [
+      "Martin Vodička",
+      "Martin Zeman",
+      "Mgr. Klára Carbová"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Lenka Dražilová, MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6431",
+    "asistenti": [
+      "Bc. Kateřina Ostrá",
+      "Ing. Jiří Míšenský",
+      "Jakub Konrád",
+      "Marie Bílková",
+      "Michaela Kristeková"
+    ]
+  },
+  {
+    "poslanec": "PhDr. Ivan Bartoš, Ph.D.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6433",
+    "asistenti": [
+      "Ivana Miklíková",
+      "Kristina Jochmannová",
+      "Tomáš Kopečný",
+      "Zuzana Petrůvová"
     ]
   },
   {
@@ -132,14 +555,473 @@
     ]
   },
   {
-    "poslanec": "MVDr. Pavel Bělobrádek, Ph.D., MPA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6138",
+    "poslanec": "Ing. Stanislav Blaha",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6438",
     "asistenti": [
-      "Jan Novák",
-      "MÁLEK & PARTNERS, s.r.o. - Gabriela Kloudová",
-      "MÁLEK & PARTNERS, s.r.o. - Roman Málek, MBA, MSc.",
-      "Stanislav Drašnar",
-      "Vendulka Štěpánová"
+      "Ivona Fišerová",
+      "Petr Střítežský",
+      "Richard Beran"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Jaroslav Bžoch",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6441",
+    "asistenti": [
+      "Aneta Benešová",
+      "Majid Shamas Toma",
+      "Tomáš Horák"
+    ]
+  },
+  {
+    "poslanec": "MUDr. Jaroslav Dvoøák",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6445",
+    "asistenti": [
+      "Anna Stodùlková",
+      "Lenka Zumrová"
+    ]
+  },
+  {
+    "poslanec": "MUDr. Kamal Farhan",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6447",
+    "asistenti": [
+      "Alena Křišťanová",
+      "Kristýna Berková"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Milan Feranec",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6448",
+    "asistenti": [
+      "Jaroslava Hustáková",
+      "Svatopluk Binder"
+    ]
+  },
+  {
+    "poslanec": "Ing. Stanislav Fridrich",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6451",
+    "asistenti": [
+      "Ing. Monika Polenová",
+      "JUDr. Radim Vicherek"
+    ]
+  },
+  {
+    "poslanec": "PhDr. Ing. Mgr. Jan Hrnčíř, MBA, LL.M.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6455",
+    "asistenti": [
+      "Ing. Jiří Rokos",
+      "Irena Staňková",
+      "Mgr. Libor Bláha, MBA",
+      "Mgr. Petra Svedíková Vávrová, MBA"
+    ]
+  },
+  {
+    "poslanec": "Ing. Eva Fialová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6457",
+    "asistenti": [
+      "Ing. Jakub Komárek",
+      "Robert Vondrovic",
+      "WOODRACO s.r.o. - Igor Babík"
+    ]
+  },
+  {
+    "poslanec": "prof. Ing. Ivan Jáč, CSc.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6458",
+    "asistenti": [
+      "Mgr. Barbora Vrbová Mládková"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Jakub Janda",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6459",
+    "asistenti": [
+      "Jiří Adamec",
+      "Petr Pešek",
+      "Vladimír Maryška"
+    ]
+  },
+  {
+    "poslanec": "Ing. Aleš Juchelka",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6463",
+    "asistenti": [
+      "Matěj Marták",
+      "Michal Zaydlar",
+      "Petr Müller"
+    ]
+  },
+  {
+    "poslanec": "Ing. Jana Krutáková",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6466",
+    "asistenti": [
+      "Anna-Marie Houser",
+      "Barbora Tomčalová",
+      "Veronika Souayeh"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Ing. Taťána Malá",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6468",
+    "asistenti": [
+      "Klára Dubovská",
+      "Mgr. Barbora Rázga",
+      "Natálie Zachariášová",
+      "Roman Filip"
+    ]
+  },
+  {
+    "poslanec": "Karla Maříková",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6469",
+    "asistenti": [
+      "Ing. Jaroslav Holík",
+      "Michal Pála",
+      "PavTomSoft s.r.o. - Ing. Pavel Jelínek"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Jana Mračková Vildumetzová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6471",
+    "asistenti": [
+      "Gabriela Dostálová",
+      "PhDr. Andrea Patočková",
+      "Vojtěch Matoušek"
+    ]
+  },
+  {
+    "poslanec": "PhDr. Olga Richterová, Ph.D.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6473",
+    "asistenti": [
+      "Daniel Altman Galuszka",
+      "Katarína Ryšavá"
+    ]
+  },
+  {
+    "poslanec": "Ing. Zuzana Ožanová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6474",
+    "asistenti": [
+      "Daniela Karasová",
+      "Ing. Ludmila Nutilová",
+      "Jaroslava Hustáková",
+      "Kateřina Šunková Horáková",
+      "Monika Polenová"
+    ]
+  },
+  {
+    "poslanec": "Ing. Monika Oborná",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6475",
+    "asistenti": [
+      "Jiří Doležal",
+      "Mgr. David Rožánek",
+      "Šárka Vostálová"
+    ]
+  },
+  {
+    "poslanec": "Mgr. et Mgr. Jakub Michálek, Ph.D.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6477",
+    "asistenti": [
+      "Ivana Miklíková",
+      "Mikuláš Ferjenčík"
+    ]
+  },
+  {
+    "poslanec": "Bc. Lucie Šafránková",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6479",
+    "asistenti": [
+      "Creative Media Group s.r.o. - Akop Chodžajan",
+      "Jaroslav Novák",
+      "Karel Cholek",
+      "Tomáš Doležal"
+    ]
+  },
+  {
+    "poslanec": "prof. MUDr. Vlastimil Válek, CSc., MBA, EBIR",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6482",
+    "asistenti": [
+      "Jana Pleyerová",
+      "Jitka Halouzková",
+      "Mgr. Andrea Lukáèová"
+    ]
+  },
+  {
+    "poslanec": "David Štolpa",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6484",
+    "asistenti": [
+      "Ing. František Pokorný",
+      "Libor Valenta",
+      "Petr Štejdýř",
+      "Vítězslav Klement"
+    ]
+  },
+  {
+    "poslanec": "Ing. Vojtěch Munzar",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6486",
+    "asistenti": [
+      "Filip Šebesta",
+      "Ing. Andrea Kuncová",
+      "Magdaléna Slaná"
+    ]
+  },
+  {
+    "poslanec": "Ing. Patrik Nacher",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6487",
+    "asistenti": [
+      "Ing. Ondřej Prokop",
+      "Mgr. Miroslav Zeman",
+      "Veronika Miličková"
+    ]
+  },
+  {
+    "poslanec": "Ing. Petr Vrána",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6490",
+    "asistenti": [
+      "Aneta Benešová",
+      "Ing. Milan Passinger",
+      "Ing. Tomáš Navrátil"
+    ]
+  },
+  {
+    "poslanec": "prof. Ing. Ivo Vondrák, CSc.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6492",
+    "asistenti": [
+      "Alena Pokutová",
+      "Jakub Gogela"
+    ]
+  },
+  {
+    "poslanec": "Ing. Radovan Vích",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6495",
+    "asistenti": [
+      "JUDr. Petr Přikryl",
+      "Vladimíra Bondarenková"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Bc. et Bc. et Bc. Jan Richter",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6500",
+    "asistenti": [
+      "Miroslav Novotný",
+      "Tomáš Polanský"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Jiří Kobza",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6503",
+    "asistenti": [
+      "Josef Nerušil",
+      "Tomáš Doležal",
+      "Zdeněk Jung"
+    ]
+  },
+  {
+    "poslanec": "prof. MUDr. Julius Špičák, CSc.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6505",
+    "asistenti": [
+      "Caroline Alberta Schiestl, MSc",
+      "Martin Vodička"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Tomáš Kohoutek, MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6506",
+    "asistenti": [
+      "Bartoš Legal & Partners s.r.o. - Mgr. Daniel Bartoš",
+      "Ing. Jakub Komárek",
+      "Ing. Milan Pour",
+      "Ing. Vojtěch Ryvola"
+    ]
+  },
+  {
+    "poslanec": "Radek Koten",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6508",
+    "asistenti": [
+      "Andrea Dupová",
+      "JUDr. Petr Paul",
+      "Lucie Nováková"
+    ]
+  },
+  {
+    "poslanec": "Robert Králíček",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6509",
+    "asistenti": [
+      "Mgr. Barbora Rázga",
+      "Mgr. Michael John, MBA, LLM"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Karel Krejza",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6510",
+    "asistenti": [
+      "Mgr. Pavel Kozdera",
+      "PhDr. Jaroslav Vlach"
+    ]
+  },
+  {
+    "poslanec": "Ing. Jan Kubík",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6511",
+    "asistenti": [
+      "Daniel Bajraj",
+      "Jan Zilvar",
+      "Miroslav Smolák"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Marek Výborný",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6513",
+    "asistenti": [
+      "Frantiek Jelínek",
+      "JUDr. Vilém Anzenbacher, Ph.D.",
+      "Mgr. Josef Wolf",
+      "Petra Klechová"
+    ]
+  },
+  {
+    "poslanec": "Ing. Jiří Strýček",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6515",
+    "asistenti": [
+      "Adriana Rýdlová",
+      "Ing. Ludmila Nutilová",
+      "Petr Müller"
+    ]
+  },
+  {
+    "poslanec": "Petr Sadovský",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6518",
+    "asistenti": [
+      "Eduard Rovenský",
+      "Jiøí Doleal"
+    ]
+  },
+  {
+    "poslanec": "Ing. Pavel Růžička",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6520",
+    "asistenti": [
+      "Bc. Miroslav Matějka",
+      "Mgr. Jana Adamcová"
+    ]
+  },
+  {
+    "poslanec": "Radek Rozvoral",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6521",
+    "asistenti": [
+      "Miloslav Rozner",
+      "Petr Jedinák"
+    ]
+  },
+  {
+    "poslanec": "Michal Ratiborský",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6523",
+    "asistenti": [
+      "Dominika Havlíčková",
+      "Ing. Jan Řehounek",
+      "Ing. Terezie Böhmová, DiS.",
+      "Jiří Doležal",
+      "Petr Müller"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Vít Rakušan",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6524",
+    "asistenti": [
+      "Filip Reinöhl",
+      "Lucie Hofmanová",
+      "Vojtěch Svoboda"
+    ]
+  },
+  {
+    "poslanec": "David Pražák",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6527",
+    "asistenti": [
+      "Adéla Říhová",
+      "Petra Plachá",
+      "Tomáš Haspeklo"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Marek Novák, MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6533",
+    "asistenti": [
+      "Digital Laboratory s.r.o.",
+      "Jan Zilvar",
+      "Lenka Součková",
+      "Pavel Martiník",
+      "Petr Müller"
+    ]
+  },
+  {
+    "poslanec": "MUDr. Jiří Mašek",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6534",
+    "asistenti": [
+      "Advokátní kancelář-Mgr. Zbyněk Čermák - Mgr. Milan Čermák",
+      "Advokátní kancelář-Mgr. Zbyněk Čermák - Zbyněk Čermák",
+      "Jaroslava Krenčíková",
+      "Jiří Doležal",
+      "MUDr. Pavel Plzák"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Martin Kupka",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6538",
+    "asistenti": [
+      "Richard Beran"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Lubomír Metnar",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6544",
+    "asistenti": [
+      "Matěj Marták",
+      "Mgr. Zdeňka Pikner",
+      "Zdeněk Mach"
+    ]
+  },
+  {
+    "poslanec": "JUDr. Alena Schillerová, Ph.D.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6545",
+    "asistenti": [
+      "Bc. Adriana Kaldová",
+      "Michal Žurovec",
+      "Petr Kavka"
+    ]
+  },
+  {
+    "poslanec": "MUDr. Tom Philipp, Ph.D., MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6555",
+    "asistenti": [
+      "Anna Mimochodková",
+      "Jan Wolf",
+      "Lukáš Horna",
+      "Petr Kopáček"
+    ]
+  },
+  {
+    "poslanec": "doc. Ing. Karel Havlíček, Ph.D., MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6621",
+    "asistenti": [
+      "Aneta Bernardová",
+      "Barbora Štenglová"
+    ]
+  },
+  {
+    "poslanec": "Ing. Ondřej Babka",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6623",
+    "asistenti": [
+      "Ing. Marek Liška",
+      "Ing. et Ing. Martin Zeman"
+    ]
+  },
+  {
+    "poslanec": "Jan Jakob",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6687",
+    "asistenti": [
+      "Lukáš Hejduk"
+    ]
+  },
+  {
+    "poslanec": "Ing. Jana Bačíková, MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6719",
+    "asistenti": [
+      "Barbora Jägrová",
+      "Pavel Kotrba",
+      "Rostislav Kovařík",
+      "Zuzana Kupčíková"
     ]
   },
   {
@@ -157,35 +1039,6 @@
     "asistenti": [
       "Jakub Šich",
       "Natálie Dostálová"
-    ]
-  },
-  {
-    "poslanec": "Marek Benda",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=4",
-    "asistenti": [
-      "Ing. Miroslav Tyl",
-      "Michal Vávra",
-      "Petr Břicháček"
-    ]
-  },
-  {
-    "poslanec": "Ing. Petr Bendl",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=346",
-    "asistenti": [
-      "JUDr. Jiří Černý",
-      "Libuše Volfová"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Ondřej Benešík",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6179",
-    "asistenti": [
-      "Antonie Vaculíková",
-      "Bc. Martin Schön",
-      "Marie Richterová",
-      "Mgr. Martin Svárovský",
-      "Otakar Duchek",
-      "Pavel Mimochodek"
     ]
   },
   {
@@ -208,57 +1061,11 @@
     ]
   },
   {
-    "poslanec": "Mgr. Stanislav Berkovec",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6143",
-    "asistenti": [
-      "Ing. Pavlína Kuncová",
-      "Ing. et Ing. Jaroslav Švehla",
-      "Marcela Melková"
-    ]
-  },
-  {
     "poslanec": "Ing. Josef Bernard",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6724",
     "asistenti": [
-      "JUDr. Renata Lašáková",
-      "Lubomíra Černá"
-    ]
-  },
-  {
-    "poslanec": "Ing. Stanislav Blaha",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6438",
-    "asistenti": [
-      "Ivona Fišerová",
-      "Petr Střítežský",
-      "Richard Beran"
-    ]
-  },
-  {
-    "poslanec": "JUDr. Pavel Blažek, Ph.D.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6079",
-    "asistenti": [
-      "Barbora Jägrová",
-      "HOPPE F Group s.r.o. - Mgr. Libor Hoppe",
-      "Ing. Miroslav Tyl",
-      "Mgr. Jonatan Hána",
-      "Monika Švaříčková"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Richard Brabec",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6184",
-    "asistenti": [
-      "Ing. Jakub Komárek",
-      "Petra Roubíčková",
-      "Simona Sedlářová"
-    ]
-  },
-  {
-    "poslanec": "MUDr. Milan Brázdil",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6185",
-    "asistenti": [
-      "Mgr. Jana Pěkná",
-      "Mgr. Miloslav Tichý"
+      "JUDr. Renata Laáková",
+      "Lubomíra Èerná"
     ]
   },
   {
@@ -271,51 +1078,6 @@
       "JUDr. Veronika Kapras",
       "MZ TRAINING s.r.o. - Ing. Pavel Jedlička",
       "Zdeňka Pikner"
-    ]
-  },
-  {
-    "poslanec": "Ing. Jan Bureš, DBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5899",
-    "asistenti": [
-      "Bc. Kateřina Faltýnková",
-      "Kristýna Kopecká",
-      "Tomáš Grosser"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Jaroslav Bžoch",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6441",
-    "asistenti": [
-      "Aneta Benešová",
-      "Majid Shamas Toma",
-      "Tomáš Horák"
-    ]
-  },
-  {
-    "poslanec": "Ing. Jiří Carbol",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5449",
-    "asistenti": [
-      "Marcel Sikora",
-      "Vojtěch Filsák"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Josef Cogan",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5901",
-    "asistenti": [
-      "Ing. Miroslav Sazeček",
-      "Lucie Krejčová",
-      "Matěj Hlavatý",
-      "Nataliya Kolomičenková"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Jana Černochová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5903",
-    "asistenti": [
-      "Jan Pleskač",
-      "Jana Jelínková",
-      "Ladislav Vovesný"
     ]
   },
   {
@@ -334,26 +1096,6 @@
       "Jana Žáková",
       "Kryštof Burýšek",
       "Michal Kopecký"
-    ]
-  },
-  {
-    "poslanec": "Ing. Klára Dostálová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6430",
-    "asistenti": [
-      "Martin Vodička",
-      "Martin Zeman",
-      "Mgr. Klára Carbová"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Lenka Dražilová, MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6431",
-    "asistenti": [
-      "Bc. Kateřina Ostrá",
-      "Ing. Jiří Míšenský",
-      "Jakub Konrád",
-      "Marie Bílková",
-      "Michaela Kristeková"
     ]
   },
   {
@@ -376,11 +1118,155 @@
     ]
   },
   {
-    "poslanec": "MUDr. Jaroslav Dvořák",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6445",
+    "poslanec": "Mgr. Ing. Lubomír Wenzl",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6730",
     "asistenti": [
-      "Anna Stodůlková",
-      "Lenka Zumrová"
+      "Ing. Bc. Kateřina Horáčková, DiS.",
+      "Michal Kopenec"
+    ]
+  },
+  {
+    "poslanec": "Milan Wenzl",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6731",
+    "asistenti": [
+      "JUDr. Miroslav Fořt, MBA",
+      "JUDr. Štěpán Stupčuk",
+      "Mgr. Zdeňka Pikner"
+    ]
+  },
+  {
+    "poslanec": "PhDr. Ivana Mádlová, Ph.D., MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6732",
+    "asistenti": [
+      "Adam Pojar",
+      "Dominik Schejbal"
+    ]
+  },
+  {
+    "poslanec": "JUDr. Martin Major, MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6733",
+    "asistenti": [
+      "Mgr. Markéta Šnoblová"
+    ]
+  },
+  {
+    "poslanec": "Ing. Petr Liška",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6734",
+    "asistenti": [
+      "Filip Ušák",
+      "Ing. Petr Novák",
+      "Lucie Krejčová",
+      "Scarlett Vondrušková"
+    ]
+  },
+  {
+    "poslanec": "Jan Kuchař",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6735",
+    "asistenti": [
+      "Jitka Ettler Štěpánková",
+      "Petr Nutil",
+      "Scarlett Vondrušková"
+    ]
+  },
+  {
+    "poslanec": "Ing. Martin Kukla",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6736",
+    "asistenti": [
+      "Jan Závodský",
+      "Otto Vopěnka",
+      "Tomáš Haspeklo"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Jan Lacina",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6737",
+    "asistenti": [
+      "Helena Krausová",
+      "Vítězslav Kozelek"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Bc. Hubert Lang",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6738",
+    "asistenti": [
+      "Mgr. Jana Procházková",
+      "Petr Vanka"
+    ]
+  },
+  {
+    "poslanec": "Petr Letocha",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6739",
+    "asistenti": [
+      "Ladislav Honusek",
+      "Lukáš Tkačík",
+      "Matouš Polách",
+      "Pavel Hájek",
+      "Petr Pivko"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Karel Sládeček, MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6740",
+    "asistenti": [
+      "Gabriela Poštulková",
+      "Ing. Pavel Staněk",
+      "Ing. Radana Lukovská",
+      "Veronika Turská"
+    ]
+  },
+  {
+    "poslanec": "Jiří Slavík",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6741",
+    "asistenti": [
+      "Ing. Veronika Sasková",
+      "Klára Švecová"
+    ]
+  },
+  {
+    "poslanec": "Ing. Karel Smetana",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6742",
+    "asistenti": [
+      "Daniel Tavlaridis",
+      "František Častulík",
+      "Lucie Prátová",
+      "Marek Voštinka"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Robert Stržínek",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6743",
+    "asistenti": [
+      "Ing. Josef Matocha",
+      "Jakub Mikuš",
+      "Jana Irglová",
+      "Martina Reimerová",
+      "Petr Müller"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Rudolf Salvetr",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6744",
+    "asistenti": [
+      "Ivana Kudryová",
+      "Ivona Fišerová",
+      "Jiří Tománek"
+    ]
+  },
+  {
+    "poslanec": "Ing. Marie Pošarová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6745",
+    "asistenti": [
+      "Irena Staňková",
+      "Tomáš Doležal"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Lucie Potůčková",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6746",
+    "asistenti": [
+      "Lucie Bartoňová",
+      "Matěj Hlavatý",
+      "Vojtěch Pillár"
     ]
   },
   {
@@ -389,55 +1275,6 @@
     "asistenti": [
       "Adam Trunečka",
       "Michal Souček"
-    ]
-  },
-  {
-    "poslanec": "Ing. Jaroslav Faltýnek",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6190",
-    "asistenti": [
-      "Aneta Benešová",
-      "Ing. Jaromír Hruban",
-      "Veronika Stejskalová"
-    ]
-  },
-  {
-    "poslanec": "MUDr. Kamal Farhan",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6447",
-    "asistenti": [
-      "Alena Křišťanová",
-      "Kristýna Berková"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Milan Feranec",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6448",
-    "asistenti": [
-      "Jaroslava Hustáková",
-      "Svatopluk Binder"
-    ]
-  },
-  {
-    "poslanec": "Prof. PhDr. Petr Fiala, Ph.D., LL.M.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6074",
-    "asistenti": [
-      "Pavel Šaradín"
-    ]
-  },
-  {
-    "poslanec": "Ing. Radim Fiala",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5459",
-    "asistenti": [
-      "Radovan Moudrý",
-      "Václav Koudelka"
-    ]
-  },
-  {
-    "poslanec": "Ing. Eva Fialová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6457",
-    "asistenti": [
-      "Ing. Jakub Komárek",
-      "Robert Vondrovic",
-      "WOODRACO s.r.o. - Igor Babík"
     ]
   },
   {
@@ -468,58 +1305,12 @@
     ]
   },
   {
-    "poslanec": "Jaroslav Foldyna",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5911",
-    "asistenti": [
-      "EUROPE Visual Consulting - Michal Kraft",
-      "Ing. Dana Jirchářová",
-      "Miloš Černohorský",
-      "Milutin Ilic"
-    ]
-  },
-  {
-    "poslanec": "Ing. Stanislav Fridrich",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6451",
-    "asistenti": [
-      "Ing. Monika Polenová",
-      "JUDr. Radim Vicherek"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Petr Gazdík",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5914",
-    "asistenti": [
-      "Jáchym Růžička",
-      "Marek Smetana",
-      "Matěj Brýdl"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Bc. Pavla Golasowská, DiS.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6292",
-    "asistenti": [
-      "Ing. Bohuslav Niemiec",
-      "Ing. Michal Jedlička",
-      "Ing. Tomáš Barák",
-      "Lenka Shejbalová"
-    ]
-  },
-  {
     "poslanec": "Mgr. Karel Haas",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6751",
     "asistenti": [
       "Ing. Kateřina Hašková",
       "Ing. Petr Klimpl",
       "Kristýna Kopecká"
-    ]
-  },
-  {
-    "poslanec": "Ing. Jiří Hájek",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6798",
-    "asistenti": [
-      "David Záruba",
-      "Ondřej Kratochvíl",
-      "Sára Beránková"
     ]
   },
   {
@@ -547,14 +1338,6 @@
     "asistenti": [
       "Bc. Dominik Rašek",
       "Tomáš Tázlar"
-    ]
-  },
-  {
-    "poslanec": "doc. Ing. Karel Havlíček, Ph.D., MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6621",
-    "asistenti": [
-      "Aneta Bernardová",
-      "Barbora Štenglová"
     ]
   },
   {
@@ -607,50 +1390,30 @@
     ]
   },
   {
-    "poslanec": "PhDr. Jiří Horák, Ph.D.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6803",
+    "poslanec": "Bc. Petra Quittová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6761",
     "asistenti": [
-      "Jan Stolar"
+      "Aneta Vondrová",
+      "Matìj Tyè",
+      "Pavel Koláø"
     ]
   },
   {
-    "poslanec": "PhDr. Ing. Mgr. Jan Hrnčíř, MBA, LL.M.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6455",
+    "poslanec": "Mgr. Ing. Pavla Pivoňka Vaňková",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6762",
     "asistenti": [
-      "Ing. Jiří Rokos",
-      "Irena Staňková",
-      "Mgr. Libor Bláha, MBA",
-      "Mgr. Petra Svedíková Vávrová, MBA"
+      "Ing. Jiří Falout",
+      "Mgr. Miloslav Soukup"
     ]
   },
   {
-    "poslanec": "prof. Ing. Ivan Jáč, CSc.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6458",
+    "poslanec": "Mgr. Michaela Šebelová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6763",
     "asistenti": [
-      "Mgr. Barbora Vrbová Mládková"
-    ]
-  },
-  {
-    "poslanec": "Jan Jakob",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6687",
-    "asistenti": [
-      "Lukáš Hejduk"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Jakub Janda",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6459",
-    "asistenti": [
-      "Jiří Adamec",
-      "Petr Pešek",
-      "Vladimír Maryška"
-    ]
-  },
-  {
-    "poslanec": "MUDr. Miloslav Janulík",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6201",
-    "asistenti": [
-      "Lukáš Makovec"
+      "Kryštof Ušela",
+      "Ladislav Honusek",
+      "Lucie Vyvialová",
+      "Lukáš Tkačík"
     ]
   },
   {
@@ -664,48 +1427,73 @@
     ]
   },
   {
-    "poslanec": "Ing. Aleš Juchelka",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6463",
-    "asistenti": [
-      "Matěj Marták",
-      "Michal Zaydlar",
-      "Petr Müller"
-    ]
-  },
-  {
-    "poslanec": "Ing. Marian Jurečka",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6205",
-    "asistenti": [
-      "Filip Šafr",
-      "Ludmila Kopecká"
-    ]
-  },
-  {
-    "poslanec": "MUDr. Vít Kaňkovský",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6207",
-    "asistenti": [
-      "Bc. Dagmar Hosová",
-      "Mgr. Jana Skalková"
-    ]
-  },
-  {
-    "poslanec": "MUDr. David Kasal, MHA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6209",
-    "asistenti": [
-      "Daniel Vodák",
-      "Jaroslav Zavadil",
-      "Olga Šormová",
-      "Petra Lichorobiecová",
-      "Vilém Meduna",
-      "Štěpán Lisý"
-    ]
-  },
-  {
     "poslanec": "JUDr. Pavel Kašník",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6765",
     "asistenti": [
       "Barbora Jägrová",
       "Mgr. Michal Pátek"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Eliška Olšáková",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6766",
+    "asistenti": [
+      "Adam Havlas",
+      "Jakub Ších",
+      "Marek Smetana",
+      "Mgr. Jindra Tužilová"
+    ]
+  },
+  {
+    "poslanec": "Ing. Michaela Opltová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6767",
+    "asistenti": [
+      "Eliška Vetýšková",
+      "Hana Kulová",
+      "Michal Souček",
+      "Patrik Kuba"
+    ]
+  },
+  {
+    "poslanec": "Ing. et Ing. Miloš Nový",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6768",
+    "asistenti": [
+      "Mgr. Miroslav Hlaváč",
+      "Saskie Burešová",
+      "doc. Ing. Jana Hinke, Ph.D."
+    ]
+  },
+  {
+    "poslanec": "Mgr. Hayato Okamura",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6769",
+    "asistenti": [
+      "Adam Pláteník",
+      "Antonín Homola"
+    ]
+  },
+  {
+    "poslanec": "Renata Oulehlová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6770",
+    "asistenti": [
+      "Ing. Jana Beranová",
+      "Mgr. et Mgr. Ivan Končický",
+      "PhDr. Andrea Patočková"
+    ]
+  },
+  {
+    "poslanec": "Ing. Hana Naiclerová, MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6771",
+    "asistenti": [
+      "Bc. Jakub Čech",
+      "Petra Gajďoková"
+    ]
+  },
+  {
+    "poslanec": "Ing. Tomáš Müller",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6772",
+    "asistenti": [
+      "Ing. Tereza Dundáčková",
+      "Tomáš Nakládal"
     ]
   },
   {
@@ -737,15 +1525,6 @@
     ]
   },
   {
-    "poslanec": "Mgr. Jiří Kobza",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6503",
-    "asistenti": [
-      "Josef Nerušil",
-      "Tomáš Doležal",
-      "Zdeněk Jung"
-    ]
-  },
-  {
     "poslanec": "Klára Kocmanová",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6776",
     "asistenti": [
@@ -764,203 +1543,10 @@
     ]
   },
   {
-    "poslanec": "Mgr. Tomáš Kohoutek, MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6506",
+    "poslanec": "Mgr. Martina Ochodnická",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6778",
     "asistenti": [
-      "Bartoš Legal & Partners s.r.o. - Mgr. Daniel Bartoš",
-      "Ing. Jakub Komárek",
-      "Ing. Milan Pour",
-      "Ing. Vojtěch Ryvola"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Ondřej Kolář",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6799",
-    "asistenti": [
-      "Commpanions communication s.r.o. - Jakub Hnát",
-      "Kateřina Týblová"
-    ]
-  },
-  {
-    "poslanec": "Ing. Martin Kolovratník",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6211",
-    "asistenti": [
-      "Ing. Adam Kalous",
-      "Ing. Roman Sodomka",
-      "Lukáš Luzar"
-    ]
-  },
-  {
-    "poslanec": "Radek Koten",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6508",
-    "asistenti": [
-      "Andrea Dupová",
-      "JUDr. Petr Paul",
-      "Lucie Nováková"
-    ]
-  },
-  {
-    "poslanec": "Ing. Josef Kott",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6246",
-    "asistenti": [
-      "David Rožánek",
-      "Kateřina Friedová"
-    ]
-  },
-  {
-    "poslanec": "Ing. Věra Kovářová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6214",
-    "asistenti": [
-      "Mgr. Jitka Soukupová",
-      "Patrik Kuba"
-    ]
-  },
-  {
-    "poslanec": "Ing. Václav Král",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6800",
-    "asistenti": [
-      "Jan Pešek",
-      "Lucie Včeláková",
-      "Mgr. Jana Jochová Trlicová",
-      "PaedDr. Marcela Radová"
-    ]
-  },
-  {
-    "poslanec": "Robert Králíček",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6509",
-    "asistenti": [
-      "Mgr. Barbora Rázga",
-      "Mgr. Michael John, MBA, LLM"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Karel Krejza",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6510",
-    "asistenti": [
-      "Mgr. Pavel Kozdera",
-      "PhDr. Jaroslav Vlach"
-    ]
-  },
-  {
-    "poslanec": "Ing. Jana Krutáková",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6466",
-    "asistenti": [
-      "Anna-Marie Houser",
-      "Barbora Tomčalová",
-      "Veronika Souayeh"
-    ]
-  },
-  {
-    "poslanec": "Ing. Roman Kubíček, Ph.D., MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6215",
-    "asistenti": [
-      "Simona Sedlářová",
-      "Tomáš Kubín",
-      "Štěpán Stupčuk"
-    ]
-  },
-  {
-    "poslanec": "Ing. Jan Kubík",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6511",
-    "asistenti": [
-      "Daniel Bajraj",
-      "Jan Zilvar",
-      "Miroslav Smolák"
-    ]
-  },
-  {
-    "poslanec": "Ing. Michal Kučera",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6216",
-    "asistenti": [
-      "Jana Jirušková",
-      "Markéta Vojanová",
-      "Vojtěch Vágner"
-    ]
-  },
-  {
-    "poslanec": "Jan Kuchař",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6735",
-    "asistenti": [
-      "Jitka Ettler Štěpánková",
-      "Petr Nutil",
-      "Scarlett Vondrušková"
-    ]
-  },
-  {
-    "poslanec": "Ing. Martin Kukla",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6736",
-    "asistenti": [
-      "Jan Závodský",
-      "Otto Vopěnka",
-      "Tomáš Haspeklo"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Martin Kupka",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6538",
-    "asistenti": [
-      "Richard Beran"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Jan Lacina",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6737",
-    "asistenti": [
-      "Helena Krausová",
-      "Vítězslav Kozelek"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Bc. Hubert Lang",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6738",
-    "asistenti": [
-      "Mgr. Jana Procházková",
-      "Petr Vanka"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Helena Langšádlová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5943",
-    "asistenti": [
-      "Mgr. Hedvika Pánková Nejedlá"
-    ]
-  },
-  {
-    "poslanec": "Ing. Vladimíra Lesenská",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5477",
-    "asistenti": [
-      "CORPTEC a.s. - Jiří Šitina",
-      "Zdeněk Kotouš"
-    ]
-  },
-  {
-    "poslanec": "Petr Letocha",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6739",
-    "asistenti": [
-      "Ladislav Honusek",
-      "Lukáš Tkačík",
-      "Matouš Polách",
-      "Pavel Hájek",
-      "Petr Pivko"
-    ]
-  },
-  {
-    "poslanec": "Ing. Jarmila Levko",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6809",
-    "asistenti": [
-      "Anežka Čížková",
-      "Kateřina Ferlesová",
-      "sinne s.r.o. - Daniel Markvart"
-    ]
-  },
-  {
-    "poslanec": "Ing. Petr Liška",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6734",
-    "asistenti": [
-      "Filip Ušák",
-      "Ing. Petr Novák",
-      "Lucie Krejčová",
-      "Scarlett Vondrušková"
+      "Kristýna Švárová"
     ]
   },
   {
@@ -973,356 +1559,12 @@
     ]
   },
   {
-    "poslanec": "PhDr. Ivana Mádlová, Ph.D., MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6732",
-    "asistenti": [
-      "Adam Pojar",
-      "Dominik Schejbal"
-    ]
-  },
-  {
-    "poslanec": "JUDr. Martin Major, MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6733",
-    "asistenti": [
-      "Mgr. Markéta Šnoblová"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Ing. Taťána Malá",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6468",
-    "asistenti": [
-      "Klára Dubovská",
-      "Mgr. Barbora Rázga",
-      "Natálie Zachariášová",
-      "Roman Filip"
-    ]
-  },
-  {
-    "poslanec": "Karla Maříková",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6469",
-    "asistenti": [
-      "Ing. Jaroslav Holík",
-      "Michal Pála",
-      "PavTomSoft s.r.o. - Ing. Pavel Jelínek"
-    ]
-  },
-  {
-    "poslanec": "MUDr. Jiří Mašek",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6534",
-    "asistenti": [
-      "Advokátní kancelář-Mgr. Zbyněk Čermák - Mgr. Milan Čermák",
-      "Advokátní kancelář-Mgr. Zbyněk Čermák - Zbyněk Čermák",
-      "Jaroslava Krenčíková",
-      "Jiří Doležal",
-      "MUDr. Pavel Plzák"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Lubomír Metnar",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6544",
-    "asistenti": [
-      "Matěj Marták",
-      "Mgr. Zdeňka Pikner",
-      "Zdeněk Mach"
-    ]
-  },
-  {
-    "poslanec": "Mgr. et Mgr. Jakub Michálek, Ph.D.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6477",
-    "asistenti": [
-      "Ivana Miklíková",
-      "Mikuláš Ferjenčík"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Jana Mračková Vildumetzová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6471",
-    "asistenti": [
-      "Gabriela Dostálová",
-      "PhDr. Andrea Patočková",
-      "Vojtěch Matoušek"
-    ]
-  },
-  {
-    "poslanec": "Ing. Tomáš Müller",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6772",
-    "asistenti": [
-      "Ing. Tereza Dundáčková",
-      "Tomáš Nakládal"
-    ]
-  },
-  {
-    "poslanec": "Ing. Vojtěch Munzar",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6486",
-    "asistenti": [
-      "Filip Šebesta",
-      "Ing. Andrea Kuncová",
-      "Magdaléna Slaná"
-    ]
-  },
-  {
-    "poslanec": "Ing. Patrik Nacher",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6487",
-    "asistenti": [
-      "Ing. Ondřej Prokop",
-      "Mgr. Miroslav Zeman",
-      "Veronika Miličková"
-    ]
-  },
-  {
-    "poslanec": "Ing. Hana Naiclerová, MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6771",
-    "asistenti": [
-      "Bc. Jakub Čech",
-      "Petra Gajďoková"
-    ]
-  },
-  {
-    "poslanec": "Bc. Jiří Navrátil, MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6801",
-    "asistenti": [
-      "Lada Kostelníková",
-      "Lenka Shejbalová",
-      "Lucie Kotlasová",
-      "Pavla Pavlisková"
-    ]
-  },
-  {
-    "poslanec": "MUDr. Zdenka Němečková Crkvenjaš, MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6804",
-    "asistenti": [
-      "JUDr. Lenka Ptáčková Melicharová",
-      "Jiří Stráník",
-      "Mgr. Pavel Drobil",
-      "Michal Sochor"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Marek Novák, MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6533",
-    "asistenti": [
-      "Digital Laboratory s.r.o.",
-      "Jan Zilvar",
-      "Lenka Součková",
-      "Pavel Martiník",
-      "Petr Müller"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Nina Nováková",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6176",
-    "asistenti": [
-      "Coworking BOBR s.r.o. - Ing. Robert Pecha",
-      "Lenka Shejbalová"
-    ]
-  },
-  {
-    "poslanec": "Ing. et Ing. Miloš Nový",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6768",
-    "asistenti": [
-      "Mgr. Miroslav Hlaváč",
-      "Saskie Burešová",
-      "doc. Ing. Jana Hinke, Ph.D."
-    ]
-  },
-  {
-    "poslanec": "Ing. Monika Oborná",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6475",
-    "asistenti": [
-      "Jiří Doležal",
-      "Mgr. David Rožánek",
-      "Šárka Vostálová"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Martina Ochodnická",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6778",
-    "asistenti": [
-      "Kristýna Švárová"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Hayato Okamura",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6769",
-    "asistenti": [
-      "Adam Pláteník",
-      "Antonín Homola"
-    ]
-  },
-  {
-    "poslanec": "Tomio Okamura",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6105",
-    "asistenti": [
-      "Oto Ledvinka",
-      "Vladimír Lacko"
-    ]
-  },
-  {
-    "poslanec": "Ladislav Okleštěk",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6172",
-    "asistenti": [
-      "Aneta Benešová",
-      "Ing. Jaromír Hruban",
-      "JUDr. Vladimír Lichnovský",
-      "Mgr. Roman Drkula"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Eliška Olšáková",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6766",
-    "asistenti": [
-      "Adam Havlas",
-      "Jakub Ších",
-      "Marek Smetana",
-      "Mgr. Jindra Tužilová"
-    ]
-  },
-  {
-    "poslanec": "Ing. Michaela Opltová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6767",
-    "asistenti": [
-      "Eliška Vetýšková",
-      "Hana Kulová",
-      "Michal Souček",
-      "Patrik Kuba"
-    ]
-  },
-  {
-    "poslanec": "Renata Oulehlová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6770",
-    "asistenti": [
-      "Ing. Jana Beranová",
-      "Mgr. et Mgr. Ivan Končický",
-      "PhDr. Andrea Patočková"
-    ]
-  },
-  {
-    "poslanec": "Ing. Zuzana Ožanová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6474",
-    "asistenti": [
-      "Daniela Karasová",
-      "Ing. Ludmila Nutilová",
-      "Jaroslava Hustáková",
-      "Kateřina Šunková Horáková",
-      "Monika Polenová"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Jana Pastuchová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6225",
-    "asistenti": [
-      "Daniel Köppl",
-      "Jakub Konrád",
-      "Kamila Hamáčková",
-      "Klára Dubovská"
-    ]
-  },
-  {
-    "poslanec": "Ing. Markéta Pekarová Adamová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6147",
-    "asistenti": [
-      "Kateřina Pastorková"
-    ]
-  },
-  {
     "poslanec": "Ing. Berenika Peštová, Ph.D.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6780",
     "asistenti": [
       "Ing. Milan Šimko",
       "Mgr. Radim Holeček",
       "Petr Müller"
-    ]
-  },
-  {
-    "poslanec": "Ing. František Petrtýl",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6409",
-    "asistenti": [
-      "Marcela Melková",
-      "Tomáš Haspeklo"
-    ]
-  },
-  {
-    "poslanec": "MUDr. Tom Philipp, Ph.D., MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6555",
-    "asistenti": [
-      "Anna Mimochodková",
-      "Jan Wolf",
-      "Lukáš Horna",
-      "Petr Kopáček"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Ing. Pavla Pivoňka Vaňková",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6762",
-    "asistenti": [
-      "Ing. Jiří Falout",
-      "Mgr. Miloslav Soukup"
-    ]
-  },
-  {
-    "poslanec": "Ing. Jaroslava Pokorná Jermanová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6202",
-    "asistenti": [
-      "Marcela Melková",
-      "Michaela Stibůrková",
-      "Pavel Dvořák",
-      "PhDr. Stanislav Dvořák"
-    ]
-  },
-  {
-    "poslanec": "Ing. Marie Pošarová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6745",
-    "asistenti": [
-      "Irena Staňková",
-      "Tomáš Doležal"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Lucie Potůčková",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6746",
-    "asistenti": [
-      "Lucie Bartoňová",
-      "Matěj Hlavatý",
-      "Vojtěch Pillár"
-    ]
-  },
-  {
-    "poslanec": "David Pražák",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6527",
-    "asistenti": [
-      "Adéla Říhová",
-      "Petra Plachá",
-      "Tomáš Haspeklo"
-    ]
-  },
-  {
-    "poslanec": "Bc. Petra Quittová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6761",
-    "asistenti": [
-      "Aneta Vondrová",
-      "Matěj Tyč",
-      "Pavel Kolář"
-    ]
-  },
-  {
-    "poslanec": "prof. Ing. Karel Rais, CSc., MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6158",
-    "asistenti": [
-      "Ing. Lenka Smolíková",
-      "JUDr. Ing. Mgr. Marek Hodulík",
-      "JUDr. Veronika Kapras",
-      "Petr Valkovič",
-      "Veronika Stejskalová",
-      "Vítězslav Klement"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Vít Rakušan",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6524",
-    "asistenti": [
-      "Filip Reinöhl",
-      "Lucie Hofmanová",
-      "Vojtěch Svoboda"
     ]
   },
   {
@@ -1336,80 +1578,11 @@
     ]
   },
   {
-    "poslanec": "Michal Ratiborský",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6523",
-    "asistenti": [
-      "Dominika Havlíčková",
-      "Ing. Jan Řehounek",
-      "Ing. Terezie Böhmová, DiS.",
-      "Jiří Doležal",
-      "Petr Müller"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Bc. et Bc. et Bc. Jan Richter",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6500",
-    "asistenti": [
-      "Miroslav Novotný",
-      "Tomáš Polanský"
-    ]
-  },
-  {
-    "poslanec": "PhDr. Olga Richterová, Ph.D.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6473",
-    "asistenti": [
-      "Daniel Altman Galuszka",
-      "Katarína Ryšavá"
-    ]
-  },
-  {
-    "poslanec": "Radek Rozvoral",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6521",
-    "asistenti": [
-      "Miloslav Rozner",
-      "Petr Jedinák"
-    ]
-  },
-  {
-    "poslanec": "Ing. Pavel Růžička",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6520",
-    "asistenti": [
-      "Bc. Miroslav Matějka",
-      "Mgr. Jana Adamcová"
-    ]
-  },
-  {
     "poslanec": "Ing. Drahoslav Ryba",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6782",
     "asistenti": [
       "Mgr. Bohumil Šlapák",
       "Mgr. Jana Pěkná"
-    ]
-  },
-  {
-    "poslanec": "Petr Sadovský",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6518",
-    "asistenti": [
-      "Eduard Rovenský",
-      "Jiří Doležal"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Rudolf Salvetr",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6744",
-    "asistenti": [
-      "Ivana Kudryová",
-      "Ivona Fišerová",
-      "Jiří Tománek"
-    ]
-  },
-  {
-    "poslanec": "JUDr. Alena Schillerová, Ph.D.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6545",
-    "asistenti": [
-      "Bc. Adriana Kaldová",
-      "Michal Žurovec",
-      "Petr Kavka"
     ]
   },
   {
@@ -1424,120 +1597,6 @@
     ]
   },
   {
-    "poslanec": "Ing. et Ing. Jan Skopeček, Ph.D.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6418",
-    "asistenti": [
-      "Alice Šmídová",
-      "Filip Šebesta",
-      "Ing. Filip Emmer",
-      "Mgr. Filip Nekola, MPA"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Karel Sládeček, MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6740",
-    "asistenti": [
-      "Gabriela Poštulková",
-      "Ing. Pavel Staněk",
-      "Ing. Radana Lukovská",
-      "Veronika Turská"
-    ]
-  },
-  {
-    "poslanec": "Jiří Slavík",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6741",
-    "asistenti": [
-      "Ing. Veronika Sasková",
-      "Klára Švecová"
-    ]
-  },
-  {
-    "poslanec": "Ing. Karel Smetana",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6742",
-    "asistenti": [
-      "Daniel Tavlaridis",
-      "František Častulík",
-      "Lucie Prátová",
-      "Marek Voštinka"
-    ]
-  },
-  {
-    "poslanec": "JUDr. Pavel Staněk, MBA",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5968",
-    "asistenti": [
-      "Adam Lukaštík",
-      "Kristýna Kopecká",
-      "Petra Hučíková"
-    ]
-  },
-  {
-    "poslanec": "Ing. Zbyněk Stanjura",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5969",
-    "asistenti": [
-      "Jana Kuchařová",
-      "Libuše Volfová"
-    ]
-  },
-  {
-    "poslanec": "Ing. Jiří Strýček",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6515",
-    "asistenti": [
-      "Adriana Rýdlová",
-      "Ing. Ludmila Nutilová",
-      "Petr Müller"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Robert Stržínek",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6743",
-    "asistenti": [
-      "Ing. Josef Matocha",
-      "Jakub Mikuš",
-      "Jana Irglová",
-      "Martina Reimerová",
-      "Petr Müller"
-    ]
-  },
-  {
-    "poslanec": "Doc. MUDr. Bohuslav Svoboda, CSc.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6007",
-    "asistenti": [
-      "Igor Bacharev",
-      "Petra Kadlecová"
-    ]
-  },
-  {
-    "poslanec": "MgA. Pavel Svoboda, Ph.D.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6802",
-    "asistenti": [
-      "Alfred Habermann",
-      "Commpanions communication s.r.o. - Martina Baťová",
-      "Kateřina Týblová",
-      "Mgr. Jakub Skřejpek",
-      "Ondřej Müller"
-    ]
-  },
-  {
-    "poslanec": "Bc. Lucie Šafránková",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6479",
-    "asistenti": [
-      "Creative Media Group s.r.o. - Akop Chodžajan",
-      "Jaroslav Novák",
-      "Karel Cholek",
-      "Tomáš Doležal"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Michaela Šebelová",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6763",
-    "asistenti": [
-      "Kryštof Ušela",
-      "Ladislav Honusek",
-      "Lucie Vyvialová",
-      "Lukáš Tkačík"
-    ]
-  },
-  {
     "poslanec": "Mgr. Bc. David Šimek, MBA",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6784",
     "asistenti": [
@@ -1549,29 +1608,11 @@
     ]
   },
   {
-    "poslanec": "prof. MUDr. Julius Špičák, CSc.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6505",
-    "asistenti": [
-      "Caroline Alberta Schiestl, MSc",
-      "Martin Vodička"
-    ]
-  },
-  {
     "poslanec": "MUDr. Iveta Štefanová",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6785",
     "asistenti": [
       "Miloslav Rozner",
       "Patricia Fialová"
-    ]
-  },
-  {
-    "poslanec": "David Štolpa",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6484",
-    "asistenti": [
-      "Ing. František Pokorný",
-      "Libor Valenta",
-      "Petr Štejdýř",
-      "Vítězslav Klement"
     ]
   },
   {
@@ -1581,24 +1622,6 @@
       "Eva Bendová",
       "Jolana Nováková",
       "MVDr. Marek Sedláček"
-    ]
-  },
-  {
-    "poslanec": "Ing. Antonín Tesařík",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5332",
-    "asistenti": [
-      "Bc. Petr Šebor",
-      "Jan Zugar",
-      "Mgr. František Bureš, MBA, LL.M",
-      "Vojtěch Šolc"
-    ]
-  },
-  {
-    "poslanec": "Ing. Karel Tureček",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6240",
-    "asistenti": [
-      "Martin Štoll",
-      "Miroslav Ryba"
     ]
   },
   {
@@ -1616,32 +1639,6 @@
     "asistenti": [
       "Adriana Chochelová",
       "Tomáš Pergl"
-    ]
-  },
-  {
-    "poslanec": "prof. MUDr. Vlastimil Válek, CSc., MBA, EBIR",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6482",
-    "asistenti": [
-      "Jana Pleyerová",
-      "Jitka Halouzková",
-      "Mgr. Andrea Lukáčová"
-    ]
-  },
-  {
-    "poslanec": "prof. JUDr. Helena Válková, CSc.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6168",
-    "asistenti": [
-      "JUDr. Veronika Kapras",
-      "Kateřina Šunková Horáková",
-      "Mgr. Matěj Dědina"
-    ]
-  },
-  {
-    "poslanec": "Ing. Radovan Vích",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6495",
-    "asistenti": [
-      "JUDr. Petr Přikryl",
-      "Vladimíra Bondarenková"
     ]
   },
   {
@@ -1670,73 +1667,12 @@
     ]
   },
   {
-    "poslanec": "Ing. Jan Volný",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6166",
-    "asistenti": [
-      "Jan Závodský",
-      "Lenka Opavová",
-      "Mgr. Michal Marek"
-    ]
-  },
-  {
     "poslanec": "Ing. Vít Vomáčka, MBA",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6792",
     "asistenti": [
       "Barbora Jägrová",
       "PhDr. Ondřej Konopa",
       "Vladimír Kordač"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Radek Vondráček",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6165",
-    "asistenti": [
-      "Ing. Ondřej Polák",
-      "Mgr. Miroslav Michajlovič"
-    ]
-  },
-  {
-    "poslanec": "prof. Ing. Ivo Vondrák, CSc.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6492",
-    "asistenti": [
-      "Alena Pokutová",
-      "Jakub Gogela"
-    ]
-  },
-  {
-    "poslanec": "Ing. Petr Vrána",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6490",
-    "asistenti": [
-      "Aneta Benešová",
-      "Ing. Milan Passinger",
-      "Ing. Tomáš Navrátil"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Marek Výborný",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6513",
-    "asistenti": [
-      "František Jelínek",
-      "JUDr. Vilém Anzenbacher, Ph.D.",
-      "Mgr. Josef Wolf",
-      "Petra Klechová"
-    ]
-  },
-  {
-    "poslanec": "Mgr. Ing. Lubomír Wenzl",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6730",
-    "asistenti": [
-      "Ing. Bc. Kateřina Horáčková, DiS.",
-      "Michal Kopenec"
-    ]
-  },
-  {
-    "poslanec": "Milan Wenzl",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6731",
-    "asistenti": [
-      "JUDr. Miroslav Fořt, MBA",
-      "JUDr. Štěpán Stupčuk",
-      "Mgr. Zdeňka Pikner"
     ]
   },
   {
@@ -1778,21 +1714,85 @@
     ]
   },
   {
-    "poslanec": "PhDr. Pavel Žáček, Ph.D.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=5226",
+    "poslanec": "prof. JUDr. Vladimír Balaš, CSc.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6797",
     "asistenti": [
-      "JUDr. Lenka Ptáčková Melicharová",
-      "Lucie Včeláková"
+      "Erich Kříž",
+      "Pavlína Krausová"
     ]
   },
   {
-    "poslanec": "PhDr. Marek Ženíšek, Ph.D.",
-    "url": "https://www.psp.cz/sqw/detail.sqw?id=6154",
+    "poslanec": "Ing. Jiří Hájek",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6798",
     "asistenti": [
-      "Anna Hulvertová",
-      "Miriam Faltová",
-      "Miroslav Hlaváč",
-      "Tomáš Jílek"
+      "David Záruba",
+      "Ondřej Kratochvíl",
+      "Sára Beránková"
+    ]
+  },
+  {
+    "poslanec": "Mgr. Ondøej Koláø",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6799",
+    "asistenti": [
+      "Commpanions communication s.r.o. - Jakub Hnát",
+      "Kateøina Týblová"
+    ]
+  },
+  {
+    "poslanec": "Ing. Václav Král",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6800",
+    "asistenti": [
+      "Jan Pešek",
+      "Lucie Včeláková",
+      "Mgr. Jana Jochová Trlicová",
+      "PaedDr. Marcela Radová"
+    ]
+  },
+  {
+    "poslanec": "Bc. Jiří Navrátil, MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6801",
+    "asistenti": [
+      "Lada Kostelníková",
+      "Lenka Shejbalová",
+      "Lucie Kotlasová",
+      "Pavla Pavlisková"
+    ]
+  },
+  {
+    "poslanec": "MgA. Pavel Svoboda, Ph.D.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6802",
+    "asistenti": [
+      "Alfred Habermann",
+      "Commpanions communication s.r.o. - Martina Baová",
+      "Kateøina Týblová",
+      "Mgr. Jakub Skøejpek",
+      "Ondøej Müller"
+    ]
+  },
+  {
+    "poslanec": "PhDr. Jiří Horák, Ph.D.",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6803",
+    "asistenti": [
+      "Jan Stolar"
+    ]
+  },
+  {
+    "poslanec": "MUDr. Zdenka Němečková Crkvenjaš, MBA",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6804",
+    "asistenti": [
+      "JUDr. Lenka Ptáčková Melicharová",
+      "Jiří Stráník",
+      "Mgr. Pavel Drobil",
+      "Michal Sochor"
+    ]
+  },
+  {
+    "poslanec": "Ing. Jarmila Levko",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6809",
+    "asistenti": [
+      "Aneka Èíková",
+      "Kateøina Ferlesová",
+      "sinne s.r.o. - Daniel Markvart"
     ]
   }
 ]
