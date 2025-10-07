@@ -175,7 +175,9 @@
   {
     "poslanec": "Prof. PhDr. Petr Fiala, Ph.D., LL.M.",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6074",
-    "asistenti": []
+    "asistenti": [
+      "Štěpán Hájek"
+    ]
   },
   {
     "poslanec": "JUDr. Pavel Blažek, Ph.D.",
@@ -303,10 +305,8 @@
     "url": "https://www.psp.cz/sqw/detail.sqw?id=6177",
     "asistenti": [
       "Aleš Hlaváček",
-      "Martin Švehla",
       "Mgr. Radim Holeček",
-      "Petr Müller",
-      "Robert Vondrovic"
+      "Petr Müller"
     ]
   },
   {
