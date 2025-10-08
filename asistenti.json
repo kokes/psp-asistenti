@@ -35,6 +35,11 @@
     ]
   },
   {
+    "poslanec": "JUDr. Jiří Pospíšil",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=5273",
+    "asistenti": []
+  },
+  {
     "poslanec": "Ing. Antonín Tesařík",
     "url": "https://www.psp.cz/sqw/detail.sqw?id=5332",
     "asistenti": [
@@ -1879,5 +1884,30 @@
       "Ing. Viktor Šebesta",
       "Jaroslava Hustáková"
     ]
+  },
+  {
+    "poslanec": "Katerina Demetrashvili",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=6999",
+    "asistenti": []
+  },
+  {
+    "poslanec": "Mgr. Patrik Pařil",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=7031",
+    "asistenti": []
+  },
+  {
+    "poslanec": "Mgr. Barbora Pipášová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=7035",
+    "asistenti": []
+  },
+  {
+    "poslanec": "Mgr. Zuzana Schwarz Bařtipánová",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=7040",
+    "asistenti": []
+  },
+  {
+    "poslanec": "Martin Záhoř",
+    "url": "https://www.psp.cz/sqw/detail.sqw?id=7062",
+    "asistenti": []
   }
 ]
