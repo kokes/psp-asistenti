@@ -1,4 +1,5 @@
 import argparse
+import csv
 import json
 import os
 import random
@@ -30,9 +31,10 @@ if __name__ == "__main__":
             data = json.load(f)
 
     links = ht.cssselect("ul.person-list li span a")
-    random.shuffle(links)
-    for link in links[: args.n]:
-        person_url = urljoin(base_url, link.attrib["href"])
+    urls = [urljoin(base_url, j.attrib["href"]) for j in links]
+    data = [j for j in data if j["url"] in set(urls)]
+    random.shuffle(urls)
+    for person_url in urls[: args.n]:
         with urlopen(person_url, timeout=HTTP_TIMEOUT) as rp:
             dt = rp.read().decode("windows-1250")
             htp = lxml.html.fromstring(dt)
@@ -54,3 +56,11 @@ if __name__ == "__main__":
     data.sort(key=lambda x: x["url"])
     with open(JSON_FILENAME, "wt", encoding="utf-8") as fw:
         json.dump(data, fw, indent=2, ensure_ascii=False)
+
+
+    with open("asistenti.csv", "wt", encoding="utf-8") as fw:
+        cw = csv.writer(fw)
+        cw.writerow(["poslanec", "url", "asistent"])
+        for poslanec in data:
+            for asistent in poslanec["asistenti"] or [None]:
+                cw.writerow([poslanec["poslanec"], poslanec["url"], asistent])
