@@ -12,7 +12,7 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-22.04
-    timeout-minutes: 10
+    timeout-minutes: 30
     steps:
     - name: Check out this repo
       uses: actions/checkout@v4
@@ -21,10 +21,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Fetch latest data (dispatch)
+      timeout-minutes: 30
       if: github.event_name == 'workflow_dispatch'
       run: |-
         python3 dl.py
     - name: Fetch latest data (cron)
+      timeout-minutes: 10
       if: github.event_name == 'schedule'
       run: |-
         python3 dl.py -n 10
